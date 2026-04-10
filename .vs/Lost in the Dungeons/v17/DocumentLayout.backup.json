@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B234A5D-A147-41B2-1EF1-BF01C8E2DBB5}|Assembly-CSharp.csproj|C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\assets\\scripts\\duckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B234A5D-A147-41B2-1EF1-BF01C8E2DBB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\duckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B234A5D-A147-41B2-1EF1-BF01C8E2DBB5}|Assembly-CSharp.csproj|c:\\users\\dragon emperor\\desktop\\lost in the dungeons\\assets\\scripts\\watercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B234A5D-A147-41B2-1EF1-BF01C8E2DBB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\watercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B234A5D-A147-41B2-1EF1-BF01C8E2DBB5}|Assembly-CSharp.csproj|C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\assets\\scripts\\dungeonrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B234A5D-A147-41B2-1EF1-BF01C8E2DBB5}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\dungeonrotator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WaterController.cs",
+              "DocumentMoniker": "C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\Assets\\Scripts\\WaterController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WaterController.cs",
+              "ToolTip": "C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\Assets\\Scripts\\WaterController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WaterController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAiwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T09:55:31.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DuckController.cs",
+              "DocumentMoniker": "C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\Assets\\Scripts\\DuckController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DuckController.cs",
+              "ToolTip": "C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\Assets\\Scripts\\DuckController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DuckController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T05:00:13.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DungeonRotator.cs",
+              "DocumentMoniker": "C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\Assets\\Scripts\\DungeonRotator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DungeonRotator.cs",
+              "ToolTip": "C:\\Users\\Dragon Emperor\\Desktop\\Lost in the Dungeons\\Assets\\Scripts\\DungeonRotator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DungeonRotator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T04:55:23.189Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
